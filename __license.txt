@@ -1,0 +1,12 @@
+The text files within this repository are provided under Creative Commons Non-commercial Attribution Share-Alike license.
+(https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+You are free to:
+- Share and redistribute the work in any format and medium 
+- Adapt, remix and build upon the material
+
+Under following terms:
+- Keep the original author name and provide a link to the original (this repo, reddit, or authors website)
+- Indicate if changes were made.
+- Non commercial use. (As a rule of thumb - if using The Work causes you to get paid or get paid more, it is a commercial use) 
+- Must keep same license terms in derived works
